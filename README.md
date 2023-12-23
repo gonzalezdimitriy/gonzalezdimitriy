@@ -7,7 +7,7 @@
 - PC Build tutorial
 
 
-<h2Certifications</h2>
+<h2>Certifications</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/e9c23e45-ca66-443b-b120-ccfe10a50e11/public_url)
 - [Pursuing CCNA]

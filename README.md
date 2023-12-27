@@ -4,7 +4,7 @@
 
 
 - [PC Build tutorial](https://github.com/gonzalezdimitriy/PC-Build-Tutorial)
-  
+- [Active Directory Lab](https://github.com/gonzalezdimitriy/PC-Build-Tutorial)
 
 <h2>Certifications</h2>
 

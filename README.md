@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 
-- [PC Build tutorial](https://github.com/joshmadakor1/Algorithms-Practice)
+- [PC Build tutorial](https://github.com/gonzalezdimitriy/PC-Build-Tutorial)
   
 
 <h2>Certifications</h2>

@@ -10,7 +10,7 @@
 
 - [CompTIA A+](https://www.credly.com/badges/e9c23e45-ca66-443b-b120-ccfe10a50e11/public_url)
   (May 2023)
-- Pursuing CompTIA Network+ Certification (Projected May 2025)
+- Pursuing CompTIA Network+ Certification April 2025
   
 
 
